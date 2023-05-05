@@ -108,3 +108,6 @@ venv.bak/
 .mypy_cache/
 
 .models
+*.pkl
+*.npz
+*.zip
