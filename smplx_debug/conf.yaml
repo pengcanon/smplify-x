@@ -127,9 +127,9 @@ shape_weights:
 side_view_thsh: 25
 summary_folder: summaries
 use_cuda: false
-use_face: true
+use_face: false
 use_face_contour: false
-use_hands: true
+use_hands: false
 use_joints_conf: true
 use_pca: true
 use_vposer: true
